@@ -29,7 +29,7 @@
 <p align="left">
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://skillicons.dev/icons?i=html" width="30" />
+    <img src="https://skillicons.dev/icons?i=html" width="35" />
   </a>
   &nbsp;
   
@@ -92,7 +92,7 @@
     <img src="https://skillicons.dev/icons?i=cpp" width="35" />
   </a>
   &nbsp;
-  
+
   <a href="https://git-scm.com/">
     <img src="https://skillicons.dev/icons?i=git" width="35" />
   </a>
@@ -101,5 +101,13 @@
   <a href="https://github.com/">
     <img src="https://skillicons.dev/icons?i=github" width="35" />
   </a>
-
+    &nbsp;
+<a href="https://graphql.org/">
+  <img src="https://skillicons.dev/icons?i=graphql" width="35" />
+</a>
+&nbsp;
+<a href="https://aws.amazon.com/">
+  <img src="https://skillicons.dev/icons?i=aws" width="35" />
+</a>
+&nbsp;
 </p>

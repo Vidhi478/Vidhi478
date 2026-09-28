@@ -114,7 +114,6 @@
 &nbsp;
 </p>
 <h3>🧠 Problem Solving</h3>
-<p>
-  Solved <b>500+ DSA problems</b> on LeetCode and GeeksforGeeks,
-  strengthening problem-solving and algorithmic thinking.
+<p align="center">
+  <b>500+ DSA Problems Solved</b> • LeetCode • GeeksforGeeks
 </p>

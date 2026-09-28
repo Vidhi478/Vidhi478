@@ -117,3 +117,5 @@
 <p align="center">
   <b>500+ DSA Problems Solved</b> • LeetCode • GeeksforGeeks
 </p>
+## 💬 Quote
+> "Build with purpose. Code with creativity. Learn continuously. Grow consistently."

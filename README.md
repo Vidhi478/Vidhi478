@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## ✨ A passionate Full Stack Developer crafting interactive web experiences
+#Connect with me:
+[![LeetCode](https://cdn.simpleicons.org/leetcode)](https://leetcode.com/u/vidhis_01/)
+[![LinkedIn](https://cdn.simpleicons.org/linkedin)](https://www.linkedin.com/in/vidhi-soni-2b776b339/)
+[![GeeksforGeeks](https://cdn.simpleicons.org/geeksforgeeks)](https://www.geeksforgeeks.org/user/vidhis_01/)
 <!--
 **Vidhi478/Vidhi478** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

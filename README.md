@@ -1,4 +1,4 @@
-<h3 align="center"> A Software Developer Who Loves to Build⚡</h3>
+<h2 align="center"> Hello 👋, I'm Vidhi</h2>
 <h3>📬 Get in Touch</h3>
 <p>
   <a href="YOUR_GOOGLE_DRIVE_RESUME_LINK">

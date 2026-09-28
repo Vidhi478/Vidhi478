@@ -1,6 +1,6 @@
 <h2 align="center"> Hi 👋, I'm Vidhi Soni </h2>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=45&pause=500&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Developer;Building+Modern+Web+Applications" />
 </p>
 <h3>📬 Get in Touch</h3>
 <p>

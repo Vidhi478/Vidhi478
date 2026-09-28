@@ -1,4 +1,4 @@
-<h2 align="center"> Hello 👋, I'm Vidhi</h2>
+<h1 align="center"> Hi 👋, I'm Vidhi Soni </h1>
 <h3>📬 Get in Touch</h3>
 <p>
   <a href="YOUR_GOOGLE_DRIVE_RESUME_LINK">

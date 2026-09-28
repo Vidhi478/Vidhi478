@@ -1,4 +1,14 @@
 ## ✨ A passionate Full Stack Developer crafting interactive web experiences
+<h3>📬 Get in Touch</h3>
+<p>
+  <a href="YOUR_RESUME_LINK">
+    📄 <b>View My Resume</b>
+  </a>
+  &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+  <a href="mailto:vidhisoni597@gmail.com">
+    📧 <b>Email Me</b>
+  </a>
+</p>
 <h3>🤝 Let's Connect</h3>
 <p>
  <a href="https://www.linkedin.com/in/vidhi-soni-2b776b339/">

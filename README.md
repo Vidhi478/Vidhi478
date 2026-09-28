@@ -120,8 +120,7 @@
 <h2>💬 Quote</h2>
 
 <blockquote>
-  <font color="#8b949e">
-    "Build with purpose. Code with creativity.<br>
-    Learn continuously. Grow consistently."
+  <font color="#6e7681">
+    "Build with purpose. Code with creativity. Learn continuously. Grow consistently."
   </font>
 </blockquote>

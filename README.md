@@ -113,8 +113,8 @@
 </a>
 &nbsp;
 </p>
-<h3>📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vidhi478&show_icons=true&hide_border=true" />
+<h3>🧠 Problem Solving</h3>
+<p>
+  Solved <b>500+ DSA problems</b> on LeetCode and GeeksforGeeks,
+  strengthening problem-solving and algorithmic thinking.
 </p>

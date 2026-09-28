@@ -1,5 +1,5 @@
 <h3 align="center"> A Software Developer Who Loves to Build⚡</h3>
-<h4>📬 Get in Touch</h4>
+<h3>📬 Get in Touch</h3>
 <p>
   <a href="YOUR_GOOGLE_DRIVE_RESUME_LINK">
     📄 <b>View My Resume</b>
@@ -26,7 +26,7 @@
   </a>
 </p>
 
-<h4>🛠️ Tech Stack</h4>
+<h3>🛠️ Tech Stack</h3>
 
 <p align="left">
 

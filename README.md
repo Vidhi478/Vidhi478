@@ -113,7 +113,7 @@
 </a>
 &nbsp;
 </p>
-<h3>🧠 Problem Solving</h3>
+<h3>🧠 Coding Milestones</h3>
 <p align="center">
   <b>500+ DSA Problems Solved</b> • LeetCode • GeeksforGeeks
 </p>

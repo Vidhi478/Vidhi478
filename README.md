@@ -23,7 +23,58 @@
     <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46?viewbox=auto" width="32" height="32" />
   </a>
 </p>
-### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind,nodejs,express,mongodb,mysql,postgres,cpp,typescript,git,github" />
+
+<h3>🛠️ Tech Stack</h3>
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" width="50" />
+  </a>
+  &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" width="50" />
+  </a>
+  &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=javascript" width="50" />
+  </a>
+  &nbsp;
+  <a href="https://react.dev/">
+    <img src="https://skillicons.dev/icons?i=react" width="50" />
+  </a>
+  &nbsp;
+  <a href="https://nextjs.org/">
+    <img src="https://skillicons.dev/icons?i=nextjs" width="50" />
+  </a>
+  &nbsp;
+  <a href="https://nodejs.org/">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="50" />
+  </a>
+  &nbsp;
+  <a href="https://expressjs.com/">
+    <img src="https://skillicons.dev/icons?i=express" width="50" />
+  </a>
+  &nbsp;
+  <a href="https://www.mongodb.com/">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="50" />
+  </a>
+  &nbsp;
+  <a href="https://www.mysql.com/">
+    <img src="https://skillicons.dev/icons?i=mysql" width="50" />
+  </a>
+  &nbsp;
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://skillicons.dev/icons?i=typescript" width="50" />
+  </a>
+  &nbsp;
+  <a href="https://isocpp.org/">
+    <img src="https://skillicons.dev/icons?i=cpp" width="50" />
+  </a>
+  &nbsp;
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" width="50" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=github" width="50" />
+  </a>
 </p>

@@ -9,18 +9,20 @@
     📧 <b>Email Me</b>
   </a>
 </p>
-<h4>🤝 Let's Connect</h4>
+<h3>🤝 Let's Connect</h3>
+
 <p>
- <a href="https://www.linkedin.com/in/vidhi-soni-2b776b339/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="35"  height="32"/>
-</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/vidhis_01/">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116?viewbox=auto" width="32" height="32" />
+  <a href="https://www.linkedin.com/in/vidhi-soni-2b776b339/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/vidhis_01/">
+    <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
   <a href="https://www.geeksforgeeks.org/user/vidhis_01/">
-    <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46?viewbox=auto" width="32" height="32" />
+    <img src="https://img.shields.io/badge/GEEKSFORGEEKS-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://github.com/Vidhi478">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 

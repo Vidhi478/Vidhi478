@@ -1,7 +1,7 @@
 ## ✨ A passionate Full Stack Developer crafting interactive web experiences
 <h3>📬 Get in Touch</h3>
 <p>
-  <a href="./VidhiSoni_Resume.pdf">
+  <a href="YOUR_GOOGLE_DRIVE_RESUME_LINK">
     📄 <b>View My Resume</b>
   </a>
   &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;

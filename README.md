@@ -117,5 +117,11 @@
 <p align="center">
   <b>500+ DSA Problems Solved</b> • LeetCode • GeeksforGeeks
 </p>
-## 💬 Quote
-> "Build with purpose. Code with creativity. Learn continuously. Grow consistently."
+<h2>💬 Quote</h2>
+
+<blockquote>
+  <font color="#8b949e">
+    "Build with purpose. Code with creativity.<br>
+    Learn continuously. Grow consistently."
+  </font>
+</blockquote>

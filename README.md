@@ -1,18 +1,19 @@
 ## ✨ A passionate Full Stack Developer crafting interactive web experiences
-### 🤝 Let's Connect
-<p align="left">
- <a href="https://www.linkedin.com/in/vidhi-soni-2b776b339/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="35" />
-</a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/vidhis_01/">
-    <img src="https://cdn.simpleicons.org/leetcode/F89F1B" width="35" />
+<h3>🤝 Let's Connect</h3>
+<p>
+  <a href="https://www.linkedin.com/in/vidhi-soni-2b776b339/">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2?viewbox=auto" width="32" height="32" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/vidhis_01/">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116?viewbox=auto" width="32" height="32" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.geeksforgeeks.org/user/vidhis_01/">
-    <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="35" />
-  </a> 
+    <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46?viewbox=auto" width="32" height="32" />
+  </a>
 </p>
+
 <!--
 **Vidhi478/Vidhi478** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

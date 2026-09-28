@@ -1,9 +1,9 @@
 ## ✨ A passionate Full Stack Developer crafting interactive web experiences
 ### 🤝 Let's Connect
 <p align="left">
-  <a href="https://www.linkedin.com/in/vidhi-soni-2b776b339/">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="35" />
-  </a>
+ <a href="https://www.linkedin.com/in/vidhi-soni-2b776b339/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="35" />
+</a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/vidhis_01/">
     <img src="https://cdn.simpleicons.org/leetcode/F89F1B" width="35" />

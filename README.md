@@ -1,4 +1,7 @@
-<h1 align="center"> Hi 👋, I'm Vidhi Soni </h1>
+<h2 align="center"> Hi 👋, I'm Vidhi Soni </h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer" />
+</p>
 <h3>📬 Get in Touch</h3>
 <p>
   <a href="YOUR_GOOGLE_DRIVE_RESUME_LINK">

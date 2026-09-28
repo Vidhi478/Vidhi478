@@ -1,4 +1,4 @@
-<h3 align="center">✨ A Software Developer Who Loves to Build ✨</h3>
+<h3 align="center"> A Software Developer Who Loves to Build⚡</h3>
 <h4>📬 Get in Touch</h4>
 <p>
   <a href="YOUR_GOOGLE_DRIVE_RESUME_LINK">
@@ -9,7 +9,7 @@
     📧 <b>Email Me</b>
   </a>
 </p>
-<h3>🤝 Let's Connect</h3>
+<h4>🤝 Let's Connect</h4>
 <p>
  <a href="https://www.linkedin.com/in/vidhi-soni-2b776b339/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="35"  height="32"/>
@@ -24,7 +24,7 @@
   </a>
 </p>
 
-<h3>🛠️ Tech Stack</h3>
+<h4>🛠️ Tech Stack</h4>
 
 <p align="left">
 
